@@ -1,4 +1,4 @@
-## Hi there 👋 Am a student of IT.
+## Hi there 👋Welcome to my github profile fell free to follow me .
 
 <!--
 **meltingsemicolon/meltingsemicolon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
