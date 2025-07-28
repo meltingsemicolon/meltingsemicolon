@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meltingsemicolon" alt="meltingsemicolon" /></a> </p>
 
 - 🌱 I’m currently learning **computer science theory**
-- 
+  
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **meltingsemicolon@gmail.com**
