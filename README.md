@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=meltingsemicolon&theme=aura&hide_border=false&include_all_commits=True&count_private=true)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=meltingsemicolon&theme=aura&hide_border=false)
+![](https://streak-stats.demolab.com/?user=meltingsemicolon&theme=aura&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meltingsemicolon&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
