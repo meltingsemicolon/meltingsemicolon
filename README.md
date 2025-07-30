@@ -23,5 +23,5 @@
 
 ###
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meltingsemicolon" alt="meltingsemicolon" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=meltingsemicolon&theme=aura&no-frame=false&no-bg=false&margin-w=4)
