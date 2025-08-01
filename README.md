@@ -3,6 +3,7 @@
 <h3 align="center">Passionate in tech — exploring code, breaking limits, and building what matters.
 </h3>
 
+ 🌐 [Portfolio](https://shakyaabhishek.com.np)
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meltingsemicolon&label=Profile%20views&color=brightgreen&style=flat" alt="meltingsemicolon" /> </p>
@@ -76,7 +77,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/meltingsemicolon/meltingsemicolon/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pacman graph dark" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meltingsemicolon/meltingsemicolon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meltingsemicolon/meltingsemicolon/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/meltingsemicolon/meltingsemicolon/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
