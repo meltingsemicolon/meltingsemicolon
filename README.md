@@ -1,4 +1,7 @@
-# Hi 👋, I'm Abhishek shakya from the top of world ![alt text](assets/MyflagMyPride.gif)>
+<h1>
+  Hi 👋, I'm Abhishek Shakya from the top of world 
+  <img src="assets/MyflagMyPride.gif" alt="Nepal Flag" width="40" height="40">
+</h1>
 
 <h3 align="center">Passionate in tech — exploring code, breaking limits, and building what matters.
 </h3>
