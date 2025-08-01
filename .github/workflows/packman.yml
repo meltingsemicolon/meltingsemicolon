@@ -60,7 +60,7 @@ jobs:
       - name: Move SVG to output folder
         run: |
           mkdir -p output
-          mv pacman-contribution-graph.svg output/pacman-contribution-graph.svg
+          mv pacman.svg output/pacman.svg
           
 
       - name: Commit and Push
