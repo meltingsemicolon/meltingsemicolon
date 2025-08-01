@@ -56,12 +56,12 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: pacman-contribution-graph.svg?palette=github-dark
 
       - name: Move SVG to output folder
         run: |
           mkdir -p output
-          mv pacman.svg output/pacman.svg
-          
+          mv pacman-contribution-graph.svg output/pacman-contribution-graph.svg
 
       - name: Commit and Push
         run: |
