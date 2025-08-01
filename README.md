@@ -76,5 +76,5 @@
 
 ## 😎 Cool Stuffs
 
-<img src="https://raw.githubusercontent.com/meltingsemicolon/meltingsemicolon/main/output/pacman-contribution-graph.svg#gh-dark-mode-only" alt="Pacman graph dark" />
 <img src="https://raw.githubusercontent.com/meltingsemicolon/meltingsemicolon/main/output/snake.svg#gh-dark-mode-only" alt="Snake graph dark" />
+<img src="https://raw.githubusercontent.com/meltingsemicolon/meltingsemicolon/main/output/pacman-contribution-graph.svg#gh-dark-mode-only" alt="Pacman graph dark" />
