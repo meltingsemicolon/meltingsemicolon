@@ -35,7 +35,7 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -56,12 +56,14 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: pacman-contribution-graph.svg?palette=github-dark
+
+      - name: Debug - List all files
+        run: find . -type f
 
       - name: Move SVG to output folder
         run: |
           mkdir -p output
-          mv pacman-contribution-graph.svg output/pacman-contribution-graph.svg
+          mv dist/pacman-contribution-graph.svg output/pacman-contribution-graph.svg
 
       - name: Commit and Push
         run: |
