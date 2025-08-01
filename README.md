@@ -6,7 +6,7 @@
 <h3 align="center">Passionate in tech — exploring code, breaking limits, and building what matters.
 </h3>
 
- 🌐 [Portfolio](https://shakyaabhishek.com.np)
+ 🌐 [Portfolio](https://shakyaabhishek.com.np/)
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=meltingsemicolon&label=Profile%20views&color=brightgreen&style=flat" alt="meltingsemicolon" /> </p>
@@ -77,4 +77,4 @@
 ## 😎 Cool Stuffs
 
 <img src="https://raw.githubusercontent.com/meltingsemicolon/meltingsemicolon/main/output/snake.svg#gh-dark-mode-only" alt="Snake graph dark" />
-<img src="https://raw.githubusercontent.com/meltingsemicolon/meltingsemicolon/main/output/pacman-contribution-graph.svg#gh-dark-mode-only" alt="Pacman graph dark" />
+<img src="https://raw.githubusercontent.com/meltingsemicolon/meltingsemicolon/output/pacman-contribution-graph.svg#gh-dark-mode-only" alt="Pacman graph dark" />
