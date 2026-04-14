@@ -13,7 +13,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=meltingsemicolon&theme=aura&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=meltingsemicolon&theme=onedark&no-frame=true)
 
 ## 📫 Connect with Me
 
@@ -70,9 +70,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=meltingsemicolon&theme=aura&hide_border=false&include_all_commits=True&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=meltingsemicolon&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meltingsemicolon&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=meltingsemicolon&theme=aura&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
+![](https://streak-stats.demolab.com/?user=meltingsemicolon&theme=aura&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meltingsemicolon&theme=aura&hide_border=false&layout=compact&cache_seconds=1800)
 
 ## 😎 Cool Stuffs
 
